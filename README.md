@@ -1,5 +1,5 @@
 # atlas-download
 
-Repository for downloading atlas ISO
+Repository for things related to downloading atlas ISO. 
 
-Code for website https://download.atlasos.dev
+[PENDING]Code for website https://download.atlasos.dev
